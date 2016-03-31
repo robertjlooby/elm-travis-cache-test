@@ -3,6 +3,7 @@ language: node_js
 cache:
   directories:
     - tests/elm-stuff/build-artifacts
+    - tests/elm-stuff/packages
 node_js:
   - "4.3"
 install:
